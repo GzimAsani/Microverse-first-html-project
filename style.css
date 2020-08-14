@@ -80,3 +80,190 @@ i {
   display: inline-block;
   cursor: pointer;
 }
+
+
+.thumnail-text-container{
+  display: inline-block;
+  width: 48%;
+  margin-top: 13px;
+  line-height: 0.3em;
+  vertical-align: top;
+}
+.thumnail-text{
+  margin-top: 0;
+}
+
+h3{
+position: absolute;
+top: 450px;
+left: 10px;
+display: inline-block;
+}
+.viewers{
+position: absolute;
+top: 490px;
+left: 10px;
+display: inline-block;
+color: gray;
+font-size: 15px;
+}
+
+.horizontal-line{
+  color: grey;
+  width: 74%;
+  margin-left: 0;
+}
+
+.channel-details-container{
+
+}
+.channel-image-container{
+  display: inline-block;
+  margin-top: 1px;
+}
+.channel-img{
+  width: 60px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.channel-name-and-subscribers-container{
+  display: inline-block;
+  line-height: 0.2px;
+}
+
+#channel-name{
+  font-weight: bold;
+  font-size: 14px;
+}
+#subscribers{
+  color: grey;
+}
+
+.subscribe-button-container{
+  display: inline-block;
+  width: 33%;
+  margin-left: 20%;
+}
+
+.subscribe-button{
+  display: inline-block;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: sans-serif;
+  line-height: 36px;
+  border-style: none;
+  border-radius: 3px;
+  margin-left: 90%;
+  cursor: pointer;
+}
+
+.subscribe-button:hover{
+  line-height: 40px;
+}
+
+.description-container{
+width: 75%;
+}
+
+.comments-details{
+  display: inline-block;
+  font-size: 18px;
+  margin: 6px;
+}
+
+.commentor-img-input-container{
+  position: relative;
+  margin-left: 10px;
+  display: inline-block;
+  max-height: 60px;
+  width: 70%;
+}
+.commentor-img-container{
+  display: inline-block;
+  width: 15%;
+}
+.commentor-img{
+  border-radius: 50%;
+  width: 60px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.commentor-input-container{
+  display: inline-block;
+  width: 75%;
+  position: absolute;
+  top: 10px;
+  left: 16%;
+}
+.commentor-input{
+  display: inline-block;
+  width: 100%;
+  margin-top: 0;
+  line-height: 30px;
+  background-color: lightgrey;
+  border-radius: 5px;
+  outline: none;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom: solid 1px grey;
+}
+
+.single-comment-container{
+  display: block;
+  margin-top: 85px;
+}
+
+.search-bar{
+  position:absolute;
+  top: 12px;
+  width: 40%;
+  display: inline-block;
+  height: 20px;
+  border-radius: 1px;
+  left: 250px;
+  border-color: gray;
+}
+.video-info{
+  position: absolute;
+  display: block;
+  top: 500px;
+  left: 10px;
+  width: 90%;
+}
+.inline-block{
+
+  display: inline-block;
+  left: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.right-icons{
+  width: 50%;
+  display: inline-block;
+  text-align: right;
+  font-size: 17px;
+}
+.left-icons{
+  width: 27%;
+  display: inline-block;
+}
+.search-button{
+  width: 310%;
+}
+
+.navbar {
+  align-items: center;
+  padding:5px 15px;
+  background-color: white;
+}
+.youtube {
+  margin-top: -445px;
+  margin-left: 93px;
+  font-size: 30px;
+}

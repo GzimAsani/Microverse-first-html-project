@@ -9,11 +9,9 @@ width: 96%;
 }
 
 .right{
-  display: block;
-  top: 20px;
+  margin-top: 38px;
   width: 25%;
   display: inline-block;
-
 }
 
 iframe{
@@ -22,13 +20,14 @@ iframe{
   left: 10px;
   width: 65%;
   display: block;
-
 }
+
 .img-container{
   display: inline-block;
   align-items: left;
   width: 48%;
 }
+
 .notifications{
   display: flex;
   justify-content: flex-end;
@@ -37,8 +36,8 @@ iframe{
   color: rgb(122, 122, 122);
   cursor: pointer;
   transform: scale(0.9)
-
 }
+
 .search-icon{
   position: absolute;
   display: inline-block;
@@ -53,11 +52,13 @@ iframe{
   margin: 4px;
   border-color: grey;
 }
+
 .logo{
   display: flex;
   align-items: center;
   flex: 1;
 }
+
 i {
    margin-right: 3%;
    width: 14px;

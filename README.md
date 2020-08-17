@@ -7,7 +7,7 @@ This collaborative project displays our knowledge of HTML and CSS. In this proje
 
 We worked in this project with HTML, CSS, ATOM and VSCODE.
 
-Live Demo: ----
+Live Demo: https://reverent-jang-822702.netlify.app
 
 Getting Started
 

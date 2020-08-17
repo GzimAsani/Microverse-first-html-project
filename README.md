@@ -8,6 +8,7 @@ This collaborative project displays our knowledge of HTML and CSS. In this proje
 ## Built With
 
 We worked in this project with:
+
 HTML
 
 CSS

@@ -5,7 +5,7 @@ Additional description about the project and its features.
 
 This collaborative project displays our knowledge of HTML and CSS. In this project we have recreated the basic interface of Youtube.
 
-<img src='./media/Screenshot from 2020-08-17 11-33-33.png'>
+<img src='./media/screenshot.png'>
 
 ## Built With
 

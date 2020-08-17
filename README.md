@@ -5,28 +5,54 @@ Additional description about the project and its features.
 
 This collaborative project displays our knowledge of HTML and CSS. In this project we have recreated the basic interface of Youtube.
 
-We worked in this project with HTML, CSS, ATOM and VSCODE.
+<img src='./media/screenshot.png'>
 
-Live Demo: ----
+## Built With
 
-Getting Started
+We worked in this project with:
+
+HTML
+
+CSS
+
+ATOM
+
+VSCODE.
+
+## Live Demo
+
+[Live Demo Link](https://reverent-jang-822702.netlify.app)
+
+## Getting Started
 
 Prerequisites for getting a local copy are Git, Github profile and Text editor.
 
-Author1:
+## Authors
+
+👤 **Author1**
 
 Github: Rayan84
 
-Author2:
+👤 **Author2**
 
 Github: GzimAsani
 
+## 🤝 Contributing
+
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](issues/).
 
-Give a star if you like this project!
+## Show your support
 
-Hat a tip ro anyone whoce code was used inspiration etc.
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
 
 All rights are reserved for the authors.

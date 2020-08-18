@@ -334,27 +334,12 @@ body{
     justify-content: space-between;
     margin-left: 65px;
     border-color: grey;
-  }
-  .language{
-    width: 15%;
+    width: 13%;
     height: 30px;
   }
-  .location{
-    width: 15%;
-    height: 30px;
-  }
-  .restricted-mode{
-    width: 15%;
-    height: 30px;
-  }
-  .history{
-    width: 8%;
-    height: 30px;
-  }
-  .help {
-    width: 8%;
-    height: 30px;
-  }
+
+
+
   .info-footers{
     justify-content: space-between;
     position: flex;
@@ -376,6 +361,7 @@ body{
     border-width: 1px;
     cursor: pointer;
   }
+
   footer{
     background-color: lightgrey;
   }

@@ -1,19 +1,19 @@
 body{
   width: 96%;
   }
-  
+
   .left{
     width: 70%;
     display: inline-block;
     background-color: yellow;
   }
-  
+
   .right{
-    margin-top: 38px;
+    margin-top: 20px;
     width: 25%;
     display: inline-block;
   }
-  
+
   iframe{
     position: absolute;
     top: 70px;
@@ -21,13 +21,13 @@ body{
     width: 65%;
     display: block;
   }
-  
+
   .img-container{
     display: inline-block;
     align-items: left;
     width: 48%;
   }
-  
+
   .notifications{
     display: flex;
     justify-content: flex-end;
@@ -37,7 +37,7 @@ body{
     cursor: pointer;
     transform: scale(0.9)
   }
-  
+
   .search-icon{
     position: absolute;
     display: inline-block;
@@ -52,13 +52,13 @@ body{
     margin: 4px;
     border-color: grey;
   }
-  
+
   .logo{
     display: flex;
     align-items: center;
     flex: 1;
   }
-  
+
   i {
      margin-right: 3%;
      width: 14px;
@@ -70,8 +70,8 @@ body{
   .icon {
     transform: scale(2.0);
   }
-  
-  
+
+
   .img{
     border-radius: 3px;
     height: 100px;
@@ -79,8 +79,8 @@ body{
     display: inline-block;
     cursor: pointer;
   }
-  
-  
+
+
   .thumnail-text-container{
     display: inline-block;
     width: 48%;
@@ -91,7 +91,10 @@ body{
   .thumnail-text{
     margin-top: 0;
   }
-  
+  .color-grey{
+    color: grey;
+  }
+
   h3{
   position: absolute;
   top: 450px;
@@ -106,15 +109,19 @@ body{
   color: gray;
   font-size: 15px;
   }
-  
+
   .horizontal-line{
     color: grey;
     width: 74%;
     margin-left: 0;
   }
-  
-  
-  
+
+  .three-dots{
+    margin-right: 40px;
+    font-size:30px;
+  }
+
+
   .channel-image-container{
     display: inline-block;
     margin-top: 1px;
@@ -124,12 +131,12 @@ body{
     border-radius: 50%;
     display: inline-block;
   }
-  
+
   .channel-name-and-subscribers-container{
     display: inline-block;
     line-height: 0.2px;
   }
-  
+
   #channel-name{
     font-weight: bold;
     font-size: 14px;
@@ -137,7 +144,7 @@ body{
   #subscribers{
     color: grey;
   }
-  
+
   .subscribe-button-container{
     display: inline-block;
     width: 33%;
@@ -174,7 +181,7 @@ body{
     font-size: 25px;
     color: gray;
   }
-  
+
   .subscribe-button{
     display: inline-block;
     background-color: red;
@@ -188,21 +195,21 @@ body{
     margin-left: 90%;
     cursor: pointer;
   }
-  
+
   .subscribe-button:hover{
     line-height: 40px;
   }
-  
+
   .description-container{
   width: 75%;
   }
-  
+
   .comments-details{
     display: inline-block;
     font-size: 18px;
     margin: 6px;
   }
-  
+
   .commentor-img-input-container{
     position: relative;
     margin-left: 10px;
@@ -241,23 +248,28 @@ body{
     border-right-style: none;
     border-bottom: solid 1px grey;
   }
-  
+
   .single-comment-container{
     display: block;
     margin-top: 85px;
   }
+
+  .thumbs-up-down-container{
+   margin-top:0;
+  }
+
   #btn{
-    
+
     position: absolute;
     display: inline-block;
     margin-left: 750px;
     top: 12px;
     height: 26px;
     width: 4%;
-  
-  
-  
-    
+
+
+
+
   }
   .search-bar{
     position:absolute;
@@ -277,13 +289,13 @@ body{
     width: 90%;
   }
   .inline-block{
-  
+
     display: inline-block;
     left: 10px;
     margin: 5px;
     cursor: pointer;
   }
-  
+
   .right-icons{
     width: 50%;
     display: inline-block;
@@ -291,19 +303,19 @@ body{
     font-size: 17px;
   }
   .left-icons{
-    width: 27%;
+    width: 20%;
     display: inline-block;
   }
   .search-button{
     width: 310%;
   }
-  
+
   .navbar {
     align-items: center;
     padding:5px 15px;
     background-color: white;
   }
-  
+
   .youtube {
     margin-top: -445px;
     margin-left: 93px;
@@ -348,9 +360,22 @@ body{
     position: flex;
     color: rgb(44, 43, 43);
     font-size: 14px;
-  } 
-  
+  }
+
   .youtube-policies{
     font-size: 12px;
     color: grey;
+  }
+  .show-more-container > button{
+    margin-top: 10px;
+    padding: 4px;
+    width: 100%;
+    background-color: white;
+    border-style: solid none none none;
+    border-color: grey;
+    border-width: 1px;
+    cursor: pointer;
+  }
+  footer{
+    background-color: lightgrey;
   }
